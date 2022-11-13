@@ -1,0 +1,17 @@
+Comandos utilizados para el proyecto Command Line de 4 Geeks
+
+cd thecmdchallenge
+pwd
+ls -a
+ls -R
+clear
+cat trophy.txt
+ls -la
+mkdir funcode/the-most-funny/not-that-funny
+cp boringfolder/the-mostboring-text.txt lol.txt
+mv funcode/kids.jpg funcode/images/hello/
+rmdir small-name
+cat the-ultimate-joke.txt
+rmdir -r borinfolder
+vi kamehameha/dragon-ball-jokes.md
+Acceder al archivo con el vi, borrar la primera broma, salir y salvar el archivo. 
